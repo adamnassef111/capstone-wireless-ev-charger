@@ -56,5 +56,5 @@ The platform was designed to operate with variable input from renewable sources 
 - Demo videos (MP4)
 - Final report (PDF)
 - Circuit schematics
-- Simulation files
+- Simulation files (Multisim, Matlab)
 - Firmware code (ESP32)
