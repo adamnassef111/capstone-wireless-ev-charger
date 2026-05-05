@@ -53,6 +53,7 @@ The platform was designed to operate with variable input from renewable sources 
 ---
 
 ## Files
+- Demo videos (MP4)
 - Final report (PDF)
 - Circuit schematics
 - Simulation files
